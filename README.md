@@ -18,4 +18,4 @@ https://www.code.go.kr/stdcode/regCodeL.do
 https://data.kma.go.kr/tmeta/stn/selectStnList.do?pgmNo=123
 
 ## 사용법
-- 기후 정규화, CPM 분석시 참고하여 잘 해봅니다.
+기후 정규화 및 CPM 분석시 참고하여 잘 해봅니다.
