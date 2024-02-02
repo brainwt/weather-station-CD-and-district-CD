@@ -10,6 +10,12 @@ Matching Table for Korean Weather Station IDs and Region Codes
 강원도특별자치시 등이 반영되어 있지 않습니다. 
 ```
 
+```
+(240202)
+24년 2월 기준 버전입니다. 
+강원도특별자치시 등이 반영되어 있습니다. 
+```
+
 ## 출처
 법정동코드 : 행정표준코드관리시스템 자료를 사용하였습니다.
 https://www.code.go.kr/stdcode/regCodeL.do
